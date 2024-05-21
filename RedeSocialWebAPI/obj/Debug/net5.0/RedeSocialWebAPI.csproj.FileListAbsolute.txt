@@ -1,0 +1,63 @@
+E:\Trop Tech\Trop Tech módulo 02\Aula 39 0809\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.csproj.AssemblyReference.cache
+E:\Trop Tech\Trop Tech módulo 02\Aula 39 0809\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trop Tech\Trop Tech módulo 02\Aula 39 0809\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.AssemblyInfoInputs.cache
+E:\Trop Tech\Trop Tech módulo 02\Aula 39 0809\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.AssemblyInfo.cs
+E:\Trop Tech\Trop Tech módulo 02\Aula 39 0809\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.csproj.CoreCompileInputs.cache
+E:\Trop Tech\Trop Tech módulo 02\Aula 39 0809\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Trop Tech\Trop Tech módulo 02\Aula 39 0809\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\appsettings.json
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.exe
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.deps.json
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.runtimeconfig.json
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.runtimeconfig.dev.json
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.pdb
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.csproj.AssemblyReference.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.AssemblyInfoInputs.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.AssemblyInfo.cs
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.csproj.CoreCompileInputs.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\scopedcss\bundle\RedeSocialWebAPI.styles.css
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\staticwebassets\RedeSocialWebAPI.StaticWebAssets.Manifest.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.RazorTargetAssemblyInfo.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.csproj.CopyComplete
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\refint\RedeSocialWebAPI.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.pdb
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.genruntimeconfig.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoProjetoWebAPI\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\ref\RedeSocialWebAPI.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.exe
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.deps.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.runtimeconfig.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.runtimeconfig.dev.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\RedeSocialWebAPI.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.csproj.AssemblyReference.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.AssemblyInfoInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.AssemblyInfo.cs
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\scopedcss\bundle\RedeSocialWebAPI.styles.css
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\staticwebassets\RedeSocialWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.csproj.CopyComplete
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\refint\RedeSocialWebAPI.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\RedeSocialWebAPI.genruntimeconfig.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\11-09\RedeSocialWebAPI\RedeSocialWebAPI\obj\Debug\net5.0\ref\RedeSocialWebAPI.dll
